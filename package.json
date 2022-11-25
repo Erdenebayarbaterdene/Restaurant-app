@@ -21,8 +21,8 @@
     "react-dom": "16.14.0",
     "reactstrap": "^8.6.0"
   },
-  "description": "Exercise05 is full Shopping Cart with Stripe Billing",
+  "description": "Restaurant app",
   "main": "index.js",
-  "author": "jrw@mit.edu",
+  "author": "erdenebayar@mit.edu",
   "license": "MIT"
 }
