@@ -2,6 +2,9 @@
   "name": "restaurant-app",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": ">=14.0.0"
+   },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -21,11 +24,9 @@
     "react-dom": "16.14.0",
     "reactstrap": "^8.6.0"
   },
-  "description": "Restaurant app",
+  "description": "Exercise05 is full Shopping Cart with Stripe Billing",
   "main": "index.js",
-  "author": "erdenebayar@mit.edu",
+  "author": "jrw@mit.edu",
   "license": "MIT"
-   "engines": {
-   "node": ">=14.0.0"
-   }
+ 
 }
